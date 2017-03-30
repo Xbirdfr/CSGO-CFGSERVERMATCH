@@ -29,6 +29,9 @@ et y mettre le contenu suivant :
 
 > exec xbirdme-csgo-cfgservermatch.cfg
 
+(Vous pouvez également utiliser celui fourni ici si vous ne voulez pas le créer à la main)
+
+
 Une fois le serveur relancé, vous devriez voir apparaitre les messages suivant dans la console :
 
 > \> ESL CS:GO 3on3/5on5 Ladder Config loaded - 14.01.2016<
