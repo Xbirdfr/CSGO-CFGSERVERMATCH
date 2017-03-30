@@ -1,4 +1,4 @@
-# Xbird.me Fichier de config Serveur Satch CSGO
+# Xbird.me Fichier de config Serveur Match CSGO
 
 
 Ceci est un fichier de configuration utilisé sur mes serveurs
