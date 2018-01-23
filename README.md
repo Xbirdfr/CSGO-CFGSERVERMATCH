@@ -1,19 +1,24 @@
 # Xbird.me Fichier de config Serveur Match CSGO
 
 
-Ceci est un fichier de configuration utilisé sur mes serveurs
+Ceci est un ensemble de fichiers de configuration utilisé sur mes serveurs
 
 il est edité à partir du fichier :
->"Electronic Sports League CS:GO 3on3/5on5 Ladder Config 21.05.2015"
 
-les modifications apportées sont des modifications de correction du fichier ESL de base, ainsi que quelques modifications adaptée au style de match effectué sur mes serveurs
+
+les modifications apportées sont des modifications adaptée au style de match effectué sur mes serveurs
 
 ## Informations
 
-Le fichier "esl5on5-fixedtimer.cfg" est le fichier "Electronic Sports League CS:GO 3on3/5on5 Ladder Config 21.05.2015 
+Le fichier "esl5on5.cfg" est le fichier 
+>"Electronic Sports League CS:GO 3on3/5on5 Ladder Config 14.01.2016"
+https://play.eslgaming.com/download/26251762/
 
-avec les bonnes valeurs de temps de round :
->mp_roundtime 1.75 & mp_roundtime_defuse 1.75
+avec les valeurs de temps de round :
+>round time : 1:55 // bomb timer 0:40
+
+conformement au changement annoncé sur le site ESL :
+https://play.eslgaming.com/counterstrike/csgo/news/262509/
 
 ## Installation
 
@@ -34,11 +39,6 @@ et y mettre le contenu suivant :
 
 Une fois le serveur relancé, vous devriez voir apparaitre les messages suivant dans la console :
 
-> \> ESL CS:GO 3on3/5on5 Ladder Config loaded - 14.01.2016<
+> \>  ESL CS:GO 3on3/5on5 Ladder Config loaded - 14.01.2016<
 
 > \> Xbird.me loaded. HAVE FUN ! <
-
-
-# Xbird.me's CSGO Server Match Config
-
-> soon in english ...
