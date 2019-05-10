@@ -3,8 +3,6 @@
 
 Ceci est un ensemble de fichiers de configuration utilisé sur mes serveurs
 
-il est edité à partir du fichier :
-
 
 les modifications apportées sont des modifications adaptée au style de match effectué sur mes serveurs
 
